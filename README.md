@@ -4,4 +4,4 @@ Use KF_demo.ipynb to directly apply Kalman Filter to a tdms file.
 
 KF_for_PMU.pdf is a quick hands on guide to apply the KF without knowing all of the technical details of the algorithm.
 
-The complete report is avaiable at Goracci_CMB_Inflate_Report.pdf
+The complete report is available at Goracci_CMB_Inflate_Report.pdf
